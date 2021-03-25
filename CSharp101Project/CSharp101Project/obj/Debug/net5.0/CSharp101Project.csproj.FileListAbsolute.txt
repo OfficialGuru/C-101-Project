@@ -1,0 +1,32 @@
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.exe
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.deps.json
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.runtimeconfig.json
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.runtimeconfig.dev.json
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.dll
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\ref\CSharp101Project.dll
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.pdb
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.csprojAssemblyReference.cache
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.AssemblyInfoInputs.cache
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.AssemblyInfo.cs
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.csproj.CoreCompileInputs.cache
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.dll
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\ref\CSharp101Project.dll
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.pdb
+C:\Users\WoodManhood\RiderProjects\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.genruntimeconfig.cache
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.csprojAssemblyReference.cache
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.AssemblyInfoInputs.cache
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.AssemblyInfo.cs
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.dll
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\ref\CSharp101Project.dll
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.pdb
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.exe
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.deps.json
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.runtimeconfig.json
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.runtimeconfig.dev.json
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.dll
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\ref\CSharp101Project.dll
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\bin\Debug\net5.0\CSharp101Project.pdb
+C:\Users\Mohammed Alsheikh\source\repos\CSharp101Project\CSharp101Project\obj\Debug\net5.0\CSharp101Project.genruntimeconfig.cache
